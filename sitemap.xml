@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset
+ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
     <loc>https://mahabur.pro.bd/</loc>
+
+    <image:image>
+      <image:loc>https://mahabur.pro.bd/mahabur.jpeg</image:loc>
+    </image:image>
+
+     <image:image>
+      <image:loc>https://mahabur.pro.bd/photos/mahabur-hossain.jpg</image:loc>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://mahabur.pro.bd/photos/mahabur-hossain-2.jpg</image:loc>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://mahabur.pro.bd/photos/mahabur-hossain-3.jpg</image:loc>
+    </image:image>
+
   </url>
 
 </urlset>

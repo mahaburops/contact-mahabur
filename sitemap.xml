@@ -22,6 +22,10 @@
       <image:loc>https://mahabur.pro.bd/photos/mahabur-hossain-3.jpg</image:loc>
     </image:image>
 
+   <image:image>
+      <image:loc>https://mahabur.pro.bd/og-image.jpg</image:loc>
+    </image:image>
+
   </url>
 
 </urlset>
